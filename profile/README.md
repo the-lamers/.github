@@ -13,9 +13,7 @@ We are a team of **passionate developers, designers, and tech enthusiasts** who 
 ## **🚀 Current Hackathon Project: GARAGE STARTUP SPRINT 2.0**
 
 🎯 **Challenge:** AI in Corporate Training
-
 📄 **Description:** Develop a concept for an educational platform utilizing AI for assessing assignments (audio, video, text) and providing personalized feedback. Propose optimal technologies, business processes, and architecture.
-
 📅 **Timeline:** February 28 - March 02
 
 
